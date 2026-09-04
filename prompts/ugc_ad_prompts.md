@@ -173,3 +173,77 @@ Output format:
 
 **CTA:**
 
+
+
+---
+
+## Prompt 3: UGC Caption Generator
+
+### Prompt Logic
+
+The prompt transforms the UGC ad concepts into short, engaging social media captions designed to complement the video content while maintaining an authentic and conversational tone.
+
+### Prompt
+
+Act as a social media copywriter specializing in UGC advertising.
+
+Using the EcoGlow Smart Water Bottle product brief and the previously generated UGC ad scripts, create 5 unique social media captions.
+
+Target audience:
+- College students
+- Young professionals
+- Fitness-conscious customers
+
+Requirements:
+
+1. Keep each caption concise and easy to read.
+2. Make the captions sound natural and relatable.
+3. Highlight different product benefits across the captions.
+4. Avoid exaggerated claims and overly promotional language.
+5. Use a conversational UGC-style tone.
+6. Include a natural call to action.
+7. Make the captions suitable for Instagram, Facebook, and YouTube Shorts.
+8. Use relevant hashtags where appropriate.
+9. Make each caption different in concept and wording.
+
+Output format:
+
+### Caption 1
+**Caption:**
+
+**CTA:**
+
+**Hashtags:**
+
+
+### Caption 2
+**Caption:**
+
+**CTA:**
+
+**Hashtags:**
+
+
+### Caption 3
+**Caption:**
+
+**CTA:**
+
+**Hashtags:**
+
+
+### Caption 4
+**Caption:**
+
+**CTA:**
+
+**Hashtags:**
+
+
+### Caption 5
+**Caption:**
+
+**CTA:**
+
+**Hashtags:**
+
