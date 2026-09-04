@@ -85,3 +85,91 @@ Hook 7:
 Hook 8:
 Hook 9:
 Hook 10:
+
+
+---
+
+## Prompt 2: UGC Ad Script Generator
+
+### Prompt Logic
+
+The prompt converts the product brief and selected hooks into short-form UGC advertisements. It uses a problem–solution–CTA structure while keeping the language natural, relatable, and suitable for social media.
+
+### Prompt
+
+Act as an experienced UGC advertising scriptwriter and social media content strategist.
+
+Using the EcoGlow Smart Water Bottle product brief and the previously generated hooks, create 3 unique short-form UGC ad scripts.
+
+Target audience:
+
+* College students
+* Young professionals
+* Fitness-conscious customers
+
+Create the following three scripts:
+
+1. Problem → Solution → CTA
+2. Personal Experience / Testimonial
+3. Product Demonstration
+
+Requirements:
+
+1. Each script should be approximately 30–45 seconds when spoken naturally.
+2. Make the scripts sound like genuine user-created content rather than a traditional advertisement.
+3. Use conversational and simple language.
+4. Include one of the generated hooks naturally at the beginning of each script.
+5. Clearly communicate relevant product benefits without making unrealistic claims.
+6. Include a clear but natural call to action at the end.
+7. Show how the product solves a relatable everyday problem.
+8. Make each script different in concept and wording.
+9. Avoid excessive sales language, clichés, and corporate terminology.
+10. Make the scripts suitable for Instagram Reels, Facebook, and YouTube Shorts.
+
+For each script, provide:
+
+* Script title
+* Hook
+* Scene/visual direction
+* Spoken dialogue
+* Product benefit
+* CTA
+
+Output format:
+
+### Script 1 — Problem → Solution → CTA
+
+**Hook:**
+
+**Scene/Visual:**
+
+**Spoken Dialogue:**
+
+**Product Benefit:**
+
+**CTA:**
+
+### Script 2 — Personal Experience / Testimonial
+
+**Hook:**
+
+**Scene/Visual:**
+
+**Spoken Dialogue:**
+
+**Product Benefit:**
+
+**CTA:**
+
+### Script 3 — Product Demonstration
+
+**Hook:**
+
+**Scene/Visual:**
+
+**Spoken Dialogue:**
+
+**Product Benefit:**
+
+**CTA:**
+
